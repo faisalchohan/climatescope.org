@@ -58,7 +58,7 @@ This note focuses on the policies that have enabled countries to jump-start clea
 Evidence from the 71 countries reviewed for Climatescope is clear: countries where responsibility for generation, transmission and distribution rest with a single fully-integrated monopolistic company are generally not conducive to renewables investment (Table 1). In fact, countries with such structures often have difficulty attracting private capital in general.
 
 **Table 1:** Renewables investment in Climatescope countries by power market concentration and unbundling group 
-![Figure](/assets/images/content/insights/energy-policy/CS2017_policy_tab1.jpg)
+![Figure](/assets/images/content/insights/energy-policy/CS2017_policy_tab1.JPG)
 <small>*Source: Bloomberg New Energy Finance*</small>
 
 From 2012-2016, just $831 million in clean energy capital was deployed in countries with power systems monopolized by a single state-owned player<sup>2</sup>. That represents just 0.1% of all funds deployed during that period for renewables. There are certainly reasons why incumbent monopolistic utilities might resist liberalization and the associated proliferation of renewables.  They need look no further than developed countries where major utility companies are being challenged by wind and solar, in particular.  Conversely, for policy-makers, the most obvious rational for liberalizing generation is to foster competition, attract clean energy, and see prices drop for consumers. 
